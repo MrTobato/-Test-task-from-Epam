@@ -1,0 +1,19 @@
+header{
+    position: static;
+    width: 100%;
+    text-align: center;
+    margin: 0px auto;
+    font-size: 14px;
+    line-height: 52px;
+    height: 108px;
+    background: #7c53ac;
+    color: #fff;
+    font-family: 'PT Sans', sans-serif;
+    }
+
+section {
+    width: 80%;
+    height: auto;
+    margin: 100px auto;
+    background-color: chocolate;
+}
